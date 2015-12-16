@@ -43,6 +43,7 @@ h4 {
     top:337px;
     left:400px;
        color: green;
+       float:right;
 }
 
 p2 {
@@ -53,6 +54,7 @@ p2 {
     left:400px;
     font-family: "Serifa BT";
   color: green;
+   float:right;
 }
 
    body    {
